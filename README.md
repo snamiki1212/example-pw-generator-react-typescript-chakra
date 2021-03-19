@@ -7,6 +7,7 @@
 - React
 - TypeScript
 - Chakra UI
+- GitHub Actions / Pages
 
 ## LICENSE
 
